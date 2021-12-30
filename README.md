@@ -8,7 +8,7 @@ python3.7
 clone:
 ```
 $ git clone https://github.com/qiaojianjunjojo/python3-flask-api-project.git
-$ cd easy-api
+$ cd python3-flask-api-project
 ```
 使用python自带的venv模块创建虚拟环境并在虚拟环境中安装项目依耐  
 create & activate virtual env then install dependency:
